@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "e589",
+      "name": "IPhone",
+      "price": "72000",
+      "category": "mobiles"
+    },
+    {
+      "id": "0d24",
+      "name": "Samsung",
+      "price": "209872",
+      "category": "laptops"
+    },
+    {
+      "id": "38c9",
+      "name": "Redmi",
+      "price": "20000",
+      "category": "mobiles"
+    },
+    {
+      "id": "1980",
+      "name": "Vivo",
+      "price": "25000",
+      "category": "laptops"
+    },
+    {
+      "id": "96a2",
+      "name": "Realme 7 Pro",
+      "price": "50000",
+      "category": "mobiles"
+    },
+    {
+      "id": "adcc",
+      "name": "MAC Air",
+      "price": "100677",
+      "category": "laptops"
+    }
+  ]
+}
